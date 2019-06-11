@@ -1,6 +1,10 @@
 # react-crud-localstorage
 
-### crud book app using react, localstorage, materialize CSS
+### crud book app using react, react router, localstorage, materialize CSS
+
+for gh-pages deployment **HashRouter** was used instead of BrowserRouter
+
+go to src/index.js and replace HashRouter/BrowserRouter, that's all
 
 ### [Deployment with gh-pages](https://rkloecker.github.io/react-crud-localstorage)
 
