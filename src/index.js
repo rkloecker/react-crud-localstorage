@@ -5,6 +5,7 @@ import "./index.css";
 import App from "./App";
 import * as serviceWorker from "./serviceWorker";
 
+// for gh-pages deployment use HashRouter instead of BrowserRouter!
 ReactDOM.render(
   <HashRouter>
     <App />
