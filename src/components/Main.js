@@ -12,6 +12,7 @@ const Main = () => (
       <Route exact path="/books/add" component={AddBook} />
       <Route exact path="/books/edit/:id" component={EditBook} />
       <Route exact path="/books/:id" component={BookDetails} />
+      <Route component={Books} />
     </Switch>
   </main>
 );

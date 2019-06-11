@@ -37,12 +37,12 @@ class BookDetails extends Component {
         </h5>
         <h3>{this.state.details.title}</h3>
 
-        <Link className="btn mr-2" to={`/books/edit/${this.state.details.id}`}>
+        <Link className="btn mr-1" to={`/books/edit/${this.state.details.id}`}>
           {" "}
           Edit
         </Link>
 
-        <Link className="btn grey mr-2" to="/">
+        <Link className="btn grey mr-1" to="/">
           Back
         </Link>
 

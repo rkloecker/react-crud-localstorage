@@ -1,8 +1,11 @@
-
 .desc {
   font-weight: bold;
 }
 
-.edit-header{
+.edit-header {
   font-size: 3rem;
+}
+.book-header {
+  font-size: 2.5rem;
+  /* color: red; */
 }

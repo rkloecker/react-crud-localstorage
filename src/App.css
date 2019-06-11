@@ -1,19 +1,21 @@
-
-.edit-header{
-  font-size: 3rem;
+.edit-header {
+  font-size: 2rem;
 }
 
-.font_links{
+.font_links {
   font-size: 1.2rem;
-  
 }
-.listelement{
-  padding: 1.2rem 2rem !important;
+.listelement {
+  padding: 0.5rem 0 !important;
 }
-.mt-2{
+.mt-2 {
   margin-top: 20px;
 }
 
-.mr-2{
+.mr-2 {
   margin-right: 20px;
+}
+
+.mr-1 {
+  margin-right: 10px;
 }

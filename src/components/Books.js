@@ -23,8 +23,8 @@ class Books extends Component {
     }
     return (
       <div>
-        <h1>Books</h1>
-        <ul className="collection">{BookItems}</ul>
+        <h1 class="book-header indigo-text text-darken-2">Books</h1>
+        <ul className="">{BookItems}</ul>
       </div>
     );
   }
