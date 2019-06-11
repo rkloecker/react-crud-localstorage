@@ -6,9 +6,9 @@ export default () => {
     <div>
       <nav className="light-blue darken-4">
         <div className="container">
-          <a href="/" className="brand-logo center">
+          <Link className="brand-logo center" to="/">
             Books
-          </a>
+          </Link>
           <ul className="right">
             <li>
               <Link to="/Books/add">Add Book</Link>
